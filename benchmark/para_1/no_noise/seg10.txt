@@ -1,0 +1,93 @@
+True para: 
+0.31
+-0.6
+0.29
+-0.01
+0.011
+0.009
+-0.01
+-0.012
+0.015
+0.3
+0.5
+0.2
+100
+
+cur_time: 
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+min_theta_alg: 
+0.31 -0.6 0.29 -0.0081156298 0.0089271928 0.0073040668 -0.0081156298 -0.0097387558 0.012173445 0.3 0.5 0.2 123.21903
+
+method_used_alg: 
+sq
+
+min_distance_alg: 
+7.0451428e-11
+
+min_cosineb_alg: 
+1
+
+min_cosineb_clv: 
+0.81355957
+
+min_cosineb_glva: 
+0.81690226
+
+min_cosineb_glvr: 
+0.78974589
+
+min_cosineb_pe: 
+0.0020149967
+
+min_cosineb_sp: 
+-0.0031031157
+
+min_pearsonb_alg: 
+1 0
+
+min_pearsonb_clv: 
+0.86842758 0.13157242
+
+min_pearsonb_glva: 
+0.94479871 0.0044866691
+
+min_pearsonb_glvr: 
+0.85430719 0.030293324
+
+min_pearsonb_pe: 
+0.090304944 0.8649108
+
+min_pearsonb_sp: 
+0.075031898 0.88766336
+
+min_cosiner_alg: 
+1
+
+min_cosiner_clv: 
+0.12789003
+
+min_cosiner_glva: 
+0.58143785
+
+min_cosiner_glvr: 
+-0.18889571
+
+min_pearsonr_alg: 
+1 0
+
+min_pearsonr_glva: 
+0.9326942 0.23490262
+
+min_pearsonr_glvr: 
+-0.32727393 0.78774003
